@@ -16,10 +16,10 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Financial Mistakes Story", "Money Update Stories", "Finance Advice Story", "Debt Story Real",
-"Lost Money Story", "AITA Money Update", "Bankruptcy Story", "Financial Struggles Story", "Friend Owed Me Money", "Scammed Life Story", 
-"Investment Gone Wrong", "Money Problems Story", "Credit Card Debt Story", "Money Story Actually Happened", "Money Story Real", "True Finance Story",
-"Debt Confession Story", "Financial Hardship Story", "Money Drama Stories", "Borrowed Never Returned", "Money Secrets Exposed", "Finance Exposed"
+"Travel Disaster Stories", "Vacation Gone Wrong", "Travel Advice Story", "Flight Nightmare Story",
+    "Lost Luggage Story", "AITA Travel Update", "Hotel Nightmare Story", "Airbnb Horror Story", "Friend Ruined My Trip",
+    "Vacation Drama Story", "Tourist Scam Story", "Travel Problems Story", "Flight Delay Nightmare", "Travel Story Actually Happened",
+    "Travel Story Real", "True Vacation Story", "Vacation Disaster Story", "Travel Drama Stories", "Plane Ride From Hell", "Group Trip Disaster", "Travel Scam Exposed", "Travel Exposed"
 ]
 
 # Fetch Data Button
