@@ -16,11 +16,10 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"Workplace Drama Stories", "Toxic Boss Story", "Job Advice Stories",
- "Office Gossip Story", "Fired From Job Story", "AITA Work Update", "Toxic Workplace", 
- "Coworker Exposed", "Workplace Revenge Story", "Bad Manager Story", "HR Nightmare Story", 
- "Work Story Actually Happened", "Work Story Real", "True Job Story", "Office Life Drama", "Toxic Job Survival",
- "Coworker Drama Stories", "Boss Fired Me Story", "Office Secrets Exposed", "Job Exposed"
+Financial Mistakes Story", "Money Update Stories", "Finance Advice Story", "Debt Story Real",
+"Lost Money Story", "AITA Money Update", "Bankruptcy Story", "Financial Struggles Story", "Friend Owed Me Money", "Scammed Life Story", 
+"Investment Gone Wrong", "Money Problems Story", "Credit Card Debt Story", "Money Story Actually Happened", "Money Story Real", "True Finance Story",
+"Debt Confession Story", "Financial Hardship Story", "Money Drama Stories", "Borrowed Never Returned", "Money Secrets Exposed", "Finance Exposed"
 ]
 
 # Fetch Data Button
